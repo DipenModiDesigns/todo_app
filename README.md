@@ -1,6 +1,6 @@
 # Todo app: Project - VueJS
 
-Simple Todo App, no api, no fancy packages, easy to integrate with any project
+Simple Todo App, no api, no fancy packages, easy to integrate with any project - VueJS
 
 
 ## Customize configuration
