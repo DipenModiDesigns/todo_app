@@ -5,7 +5,7 @@ Simple Todo App, no api, no fancy packages, easy to integrate with any project -
 
 ## Customize configuration
 
-Change anything you want, or just copy code for your project.
+Change anything you want, or just copy code for your project. Everything is stored in "local storage" but you can add firebase to use it on any devices.
 
 ## Project Setup
 
